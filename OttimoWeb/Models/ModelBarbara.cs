@@ -7,6 +7,6 @@ namespace OttimoWeb.Models
 {
     public class ModelBarbara
     {
-        public string Nome {get; set;}
+        public string Nome {}
     }
 }
